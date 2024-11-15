@@ -15,9 +15,5 @@ plotly
 transformers
 pycocotools
 torchinfo
-os
-json
 pycocoevalcap
 pycocotools
-time
-random
